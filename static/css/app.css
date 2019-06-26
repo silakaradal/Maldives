@@ -1,3 +1,22 @@
 /**
 * Your CSS here
 **/
+
+body{
+    
+    font-family: 'Gloria Hallelujah', cursive;
+    }
+
+h2{
+    font-family: 'Amatic SC', cursive; 
+}
+
+.info {
+
+    font-family: 'Give You Glory', cursive;
+}
+
+.comment{
+
+    font-family: 'Cedarville Cursive', cursive;
+}
