@@ -5,6 +5,7 @@
 body{
     
     font-family: 'Gloria Hallelujah', cursive;
+    background-color: #b5f5df
     }
 
 h2{
@@ -19,4 +20,8 @@ h2{
 .comment{
 
     font-family: 'Cedarville Cursive', cursive;
+}
+
+.text{
+    font-family: 'Amatic SC', cursive;
 }
