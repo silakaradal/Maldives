@@ -5,11 +5,12 @@
 body{
     
     font-family: 'Gloria Hallelujah', cursive;
-    background-color: #b5f5df
+    background-color: #b5f5df;
     }
 
 h2{
     font-family: 'Amatic SC', cursive; 
+    font-size: 50px;
 }
 
 .info {
@@ -20,8 +21,42 @@ h2{
 .comment{
 
     font-family: 'Cedarville Cursive', cursive;
+    font-size: 25px;
+
 }
 
 .text{
     font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+    font-weight: bold
+    
+}
+
+
+section {
+    padding: 20px;
+}
+
+.guidepod{
+    background-color: pink;
+}
+
+.pod{
+    font-family: 'Amatic SC', cursive;
+    font-size: 100px;
+
+}
+
+.book{
+    border:2px dotted rebeccapurple;
+    background-color: aqua;
+    font-weight: bold;
+
+}
+
+.maldives{
+    color: rebeccapurple;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Pacifico', cursive;
 }
