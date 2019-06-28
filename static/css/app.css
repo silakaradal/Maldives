@@ -65,6 +65,7 @@ section {
 
 .gallery img{
     flex-shrink: 0;
-    margin-right: 20px
+    margin-right: 20px;
+    max-height: 250px;
 
 }
