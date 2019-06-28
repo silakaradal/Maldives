@@ -47,20 +47,7 @@ section {
 
 }
 
-.book{
-    border:2px dotted rebeccapurple;
-    background-color: aqua;
-    font-weight: bold;
 
-}
-
-.maldives{
-    color: rebeccapurple;
-    font-weight: bold;
-    font-size: 50px;
-    font-family: 'Pacifico', cursive;
-
-}
 
 .gallerywindows{
     overflow: scroll;
