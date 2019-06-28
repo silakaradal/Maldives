@@ -59,4 +59,25 @@ section {
     font-weight: bold;
     font-size: 50px;
     font-family: 'Pacifico', cursive;
+
+}
+
+.gallerywindows{
+    overflow: scroll;
+    width: 100%;
+
+
+
+}
+.gallery{
+    display: flex;
+
+
+
+}
+
+.gallery img{
+    flex-shrink: 0;
+    margin-right: 20px
+
 }
